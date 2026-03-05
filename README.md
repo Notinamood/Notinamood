@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Arpan 👋
 
-<!--
-**Notinamood/Notinamood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst passionate about turning data into actionable insights.
 
-Here are some ideas to get you started:
+## About Me
+• AI & Data Science student at IIT Patna  
+• Interested in Data Analytics, Business Intelligence, and Machine Learning  
+• Currently building data analytics projects using Python, SQL, and Tableau  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Programming**
+Python (Pandas, NumPy)
+
+**Data Analysis**
+SQL | Data Cleaning | Feature Engineering | Exploratory Data Analysis
+
+**Visualization**
+Tableau | Data Storytelling | Dashboard Design
+
+## Projects
+
+📊 Ecommerce Sales Revenue Analysis  
+End-to-end analysis of ecommerce transactions including data cleaning, SQL insights, and Tableau dashboard.
+
+More projects coming soon.
+
+## Tools
+
+Python  
+SQL  
+Tableau  
+Google Sheets  
+GitHub  
+
+## Currently Learning
+
+Advanced SQL  
+Customer Segmentation Analysis  
+Business Intelligence
