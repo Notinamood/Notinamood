@@ -10,7 +10,7 @@ Aspiring Data Analyst passionate about turning data into actionable insights.
 ## Skills
 
 **Programming**
-Python (Pandas, NumPy),R
+Python (Pandas, NumPy) , R
 
 **Data Analysis**
 SQL | Data Cleaning | Feature Engineering | Exploratory Data Analysis
@@ -20,14 +20,15 @@ Tableau | Data Storytelling | Dashboard Design
 
 ## Projects
 
-📊 Ecommerce Sales Revenue Analysis  
+📊 Ecommerce Revenue Analysis  
 End-to-end analysis of ecommerce transactions including data cleaning, SQL insights, and Tableau dashboard.
 
 More projects coming soon.
 
 ## Tools
 
-Python  
+Python
+R
 SQL  
 Tableau  
 Google Sheets  
