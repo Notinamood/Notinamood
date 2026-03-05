@@ -1,29 +1,35 @@
 # Hi, I'm Arpan 👋
 
-Aspiring Data Analyst passionate about turning data into actionable insights.
+AI & Data Science student exploring Data Analytics and Machine Learning.
+
+I enjoy working with data to uncover patterns, build dashboards, and generate insights that support better decisions.
+
+---
 
 ## About Me
+
 • AI & Data Science student at IIT Patna  
-• Interested in Data Analytics, Business Intelligence, and Machine Learning  
-• Currently building data analytics projects using Python, SQL, and Tableau  
+• Interested in Data Analytics, Data Science Machine Learning, and Business Intelligence & Artificial Intelligence  
+• Building data analytics projects to strengthen practical skills  
+
+---
 
 ## Skills
 
-**Programming**
-Python (Pandas, NumPy) , R
+Programming  
+Python (Pandas, NumPy)
+R - Language
 
-**Data Analysis**
+Data Analysis  
 SQL | Data Cleaning | Feature Engineering | Exploratory Data Analysis
 
-**Visualization**
+Visualization  
 Tableau | Data Storytelling | Dashboard Design
 
-## Projects
+Mathematics  
+Statistics | Probability | Linear Algebra
 
-📊 Ecommerce Revenue Analysis  
-End-to-end analysis of ecommerce transactions including data cleaning, SQL insights, and Tableau dashboard.
-
-More projects coming soon.
+---
 
 ## Tools
 
@@ -32,14 +38,29 @@ R
 SQL  
 Tableau  
 Google Sheets  
-GitHub  
+GitHub
 
-## Working on 
+---
 
-More Data Analytics projects
+## Projects
 
-## Currently learning
+📊 Ecommerce Sales Revenue Analysis  
+End-to-end ecommerce data analysis including data cleaning, SQL queries, and Tableau dashboard.
 
-Machine Learning For Data Science 
+More projects coming soon.
+
+---
+
+## Currently Learning
+
+Advanced SQL  
+Machine Learning for Data Science  
+Customer Segmentation Analysis
+
+---
+
+## Working On
+
+Building more data analytics and machine learning projects.
 
 
