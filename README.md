@@ -34,8 +34,12 @@ Tableau
 Google Sheets  
 GitHub  
 
-## Currently Learning
+## Working on 
 
-Advanced SQL  
-Customer Segmentation Analysis  
-Business Intelligence
+More Data Analytics projects
+
+## Currently learning
+
+Machine Learning For Data Science 
+
+
