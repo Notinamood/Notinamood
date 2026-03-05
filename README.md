@@ -10,7 +10,7 @@ Aspiring Data Analyst passionate about turning data into actionable insights.
 ## Skills
 
 **Programming**
-Python (Pandas, NumPy)
+Python (Pandas, NumPy),R
 
 **Data Analysis**
 SQL | Data Cleaning | Feature Engineering | Exploratory Data Analysis
