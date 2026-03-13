@@ -1,6 +1,6 @@
 # Hi, I'm Arpan 👋
 
-AI & Data Science student exploring Data Analytics and Machine Learning.
+AI & Cybersecurity student from IIT Patna, doing my bachelor's and also exploring Data Analytics and Artificial Intelligence
 
 I enjoy working with data to uncover patterns, build dashboards, and generate insights that support better decisions.
 
@@ -8,7 +8,7 @@ I enjoy working with data to uncover patterns, build dashboards, and generate in
 
 ## About Me
 
-• AI & Data Science student at IIT Patna  
+• AI & Cybersecurity student at IIT Patna  
 • Interested in Data Analytics, Data Science Machine Learning, and Business Intelligence & Artificial Intelligence  
 • Building data analytics projects to strengthen practical skills  
 
@@ -24,7 +24,7 @@ Data Analysis
 SQL | Data Cleaning | Feature Engineering | Exploratory Data Analysis
 
 Visualization  
-Tableau | Data Storytelling | Dashboard Design
+Tableau | Power BI | Data Storytelling | Dashboard Design
 
 Mathematics  
 Statistics | Probability | Linear Algebra
@@ -34,10 +34,14 @@ Statistics | Probability | Linear Algebra
 ## Tools
 
 Python
+Pandas
+Numpy
 R
 SQL  
-Tableau  
-Google Sheets  
+Tableau 
+Power BI
+Google Sheets 
+Microsoft excel
 GitHub
 
 ---
@@ -61,6 +65,6 @@ Customer Segmentation Analysis
 
 ## Working On
 
-Building more data analytics and machine learning projects.
+Building more data analytics and Artifical Intelligence projects.
 
 
