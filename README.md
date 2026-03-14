@@ -34,12 +34,12 @@ Statistics | Probability | Linear Algebra
 ## Projects
 
 Ecommerce Sales Revenue Analysis  
-End-to-end ecommerce data analysis including data cleaning, SQL queries, and Tableau dashboard.
+- End-to-end ecommerce data analysis including data cleaning, SQL queries, and Tableau dashboard.
 
 Customer Segmentation Using RFM
-This project implements Customer Segmentation using RFM (Recency, Frequency, Monetary) Analysis
+- This project implements Customer Segmentation using RFM (Recency, Frequency, Monetary) Analysis
 
-More projects coming soon.
+- More projects coming soon.
 
 ---
 
