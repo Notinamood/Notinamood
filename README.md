@@ -44,8 +44,7 @@ More projects coming soon.
 ---
 
 ## Currently Learning
-Artificial Intelligence
-Machine Learning for Data Science  
+Artificial Intelligence & Machine Learning for Data Science  
 
 ---
 
