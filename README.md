@@ -31,35 +31,21 @@ Statistics | Probability | Linear Algebra
 
 ---
 
-## Tools
-
-Python
-Pandas
-Numpy
-R
-SQL  
-Tableau 
-Power BI
-Google Sheets 
-Microsoft excel
-GitHub
-
----
-
 ## Projects
 
-📊 Ecommerce Sales Revenue Analysis  
+Ecommerce Sales Revenue Analysis  
 End-to-end ecommerce data analysis including data cleaning, SQL queries, and Tableau dashboard.
+
+Customer Segmentation Using RFM
+This project implements Customer Segmentation using RFM (Recency, Frequency, Monetary) Analysis
 
 More projects coming soon.
 
 ---
 
 ## Currently Learning
-
-Advanced SQL  
+Artificial Intelligence
 Machine Learning for Data Science  
-Customer Segmentation Analysis
 
 ---
 
