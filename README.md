@@ -11,7 +11,7 @@ I enjoy working with data to uncover patterns, build dashboards, and generate in
 
 • AI & Cybersecurity student at IIT Patna  
 • Interested in Data Analytics, Data Science Machine Learning, and Business Intelligence & Artificial Intelligence  
-• Building data analytics projects to strengthen practical skills  
+• Building data analytics projects , ML ,Data Science & AI projects to strengthen practical skills  
 
 ---
 
