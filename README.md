@@ -34,14 +34,14 @@ I enjoy working with data to uncover patterns, build dashboards, and develop sys
 * Feature Engineering
 * Exploratory Data Analysis
 
-### 📈 Visualization
+###  Visualization
 
 * Tableau
 * Power BI
 * Dashboard Design
 * Data Storytelling
 
-### 🔢 Mathematics
+###  Mathematics
 
 * Statistics
 * Probability
@@ -49,7 +49,7 @@ I enjoy working with data to uncover patterns, build dashboards, and develop sys
 
 ---
 
-## 🔭 Current Focus
+##  Current Focus
 
 * Building end-to-end data projects
 * Learning machine learning & applied AI
@@ -57,8 +57,8 @@ I enjoy working with data to uncover patterns, build dashboards, and develop sys
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 * GitHub: https://github.com/Notinamood
-* LinkedIn: (https://www.linkedin.com/in/arpan-de-3a3b793b3/)
+* LinkedIn: https://www.linkedin.com/in/arpan-de-3a3b793b3/
 
